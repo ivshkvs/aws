@@ -1,0 +1,7 @@
+*.yaml linguist-detectable=true
+*.yaml linguist-language=yaml
+*.yaml text
+
+*.json linguist-detectable=true
+*.json linguist-language=json
+*.json text
